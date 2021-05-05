@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MiniOrmFramework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiniOrmFramework_jar</output-path>
+    <root id="archive" name="MiniOrmFramework.jar">
+      <element id="module-output" name="MiniOrmFramework" />
+    </root>
+  </artifact>
+</component>
